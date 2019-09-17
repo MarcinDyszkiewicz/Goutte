@@ -15,7 +15,7 @@
         "php": "^7.1.3",
         "symfony/browser-kit": "^4.3",
         "symfony/css-selector": "~3.4|~4.0",
-        "symfony/dom-crawler": "dev-fix-public-node",
+        "symfony/dom-crawler": "dev-fix-node",
         "guzzlehttp/guzzle": "^6.0"
     },
     "require-dev": {
